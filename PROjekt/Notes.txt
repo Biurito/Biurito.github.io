@@ -3,3 +3,4 @@ git init - nowe repozytorium
 git status - porównuje foldery gitowe
 git add . - dodaj zmiany do stage
 git commit -m "nazwa komitu" - zapis zmian
+git diff head - pokazywanie zmian
