@@ -1,1 +1,5 @@
-git init- nowe repozytorium
+mkdir (nazwa) - nowy folder w aktualnej lokalizacji
+git init - nowe repozytorium
+git status - porównuje foldery gitowe
+git add . - dodaj zmiany do stage
+git commit -m "nazwa komitu" - zapis zmian
